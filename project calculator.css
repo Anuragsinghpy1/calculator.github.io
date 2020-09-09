@@ -1,0 +1,60 @@
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 21px;
+    
+    font-size:34px;
+    height: 65px;
+    width: 456px;
+}
+
+button{
+    border-radius: 50%;
+    font-size: 40px;
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+}
+
+.calculator{ 
+    
+    background-color: #eaedef;
+    padding: 23px;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+.bracket1{
+    background-color:tomato;
+}
+.bracket2{
+    background-color:thistle;
+}
+.c{
+    background-color:teal;
+}
+.division{
+    background-color:aquamarine ;
+}
+.multi{
+    background-color:mediumturquoise;
+}
+.minus{
+    background-color:mediumspringgreen;
+}
+.plus{
+    background-color:palegreen;
+}
+.equal{
+    background-color:palevioletred;
+}
+
+
+
